@@ -17,8 +17,10 @@ Se utilizo la intefaz gráfica del navegador de google para poner en práctica l
 HTML trabaja de la mano con CSS para crear las páginas web que usamos todos los días en el navegador. Incluso, este sitio web en donde estás viendo este contenido está construido con HTML y CSS 🤯 (junto con otros elementos que conocerás más adelante). Para este primer proyecto, con los conocimientos que tienes de HTML y CSS realizarás la clonación de la interfaz de Google, sí, esa que ves cada que haces una búsqueda en su navegador, ¿aceptas el reto? 
 
 ## 2. Demo
+![imagen](https://github.com/marianavaldesp/clon-de-google/blob/main/imagenes/clon1.png)
+![imagen](https://github.com/marianavaldesp/clon-de-google/blob/main/imagenes/clon2.png)
 
-Te dejo un enlace a mi demo para que puedas inspirarte: [jazzy-croissant-9f548a.netlify.app](jazzy-croissant-9f548a.netlify.app)
+Te dejo un enlace a mi demo para que puedas inspirarte: jazzy-croissant-9f548a.netlify.app
 
 Como puedes ver esta demo no es precisa, ¡no te detengas a hacerlo aún mejor!
 
